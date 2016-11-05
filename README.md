@@ -1,6 +1,6 @@
 # D3raw
 
-D3raw easily allows you to generate pie charts within your Rails project. There are two types of charts available: d3_pie_simple and d3_pie_fancy. Try them out and see which one you like best.
+D3raw easily allows you to generate pie charts within your Rails project. There are two types of charts available: **d3_pie_simple** and **d3_pie_fancy**. Try them out and see which one you like best.
 
 ## Installation
 
@@ -20,4 +20,4 @@ Finally, require d3raw in your application.js
 
 ## Usage
 
-Simply call d3_pie_simple or d3_pie_fancy in your views and see the magic happen.
+Simply call **d3_pie_simple** or **d3_pie_fancy** in your views and see the magic happen.

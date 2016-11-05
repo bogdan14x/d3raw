@@ -4,10 +4,10 @@ D3raw easily allows you to generate pie charts within your Rails project. There 
 
 ## Installation
 
-Place the d3raw folder in the root of your Rails app. Then add this line to your application's Gemfile:
+Add this line to your application's Gemfile:
 
 ```ruby
-gem 'd3raw', path: 'd3raw'
+gem 'd3raw'
 ```
 
 And then execute:
